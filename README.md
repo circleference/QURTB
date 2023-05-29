@@ -1,6 +1,6 @@
 # QURTB
-Topic builder for QuizUpScratch
+Topic builder for QuizUpRemake
 
-Main repository: circleference/QuizUpScratch
+Main repository: circleference/QuizUpRemake
 
 Scratch version: https://scratch.mit.edu/projects/783278314/

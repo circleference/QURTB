@@ -1,5 +1,5 @@
-# QUSGBK
-GBK for QuizUpScratch
+# QURTB
+Topic builder for QuizUpScratch
 
 Main repository: circleference/QuizUpScratch
 
